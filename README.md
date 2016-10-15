@@ -12,5 +12,5 @@ Package the application
 Finally execute the jar
 > java -jar target/helloworld-jaxrs-tomcat-embed-1.0-jar-with-dependencies.jar
 
-You can now access the application at <http://localhost:8080/base/helloworld>
+You can now access the application at <http://localhost:8080/helloworld>
 
